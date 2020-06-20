@@ -1,0 +1,17 @@
+div.BtnBlack{
+  background-color: black;
+  width: 30px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+div.CircleNumber{
+  justify-content: center;
+  width: 25px;
+  height: 25px;
+  border-radius: 100%;
+  border: 1px solid white;
+  color: white;
+  text-align: center;
+}
